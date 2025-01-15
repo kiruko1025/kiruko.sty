@@ -1,0 +1,1 @@
+# kiruko.sty
